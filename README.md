@@ -1,2 +1,2 @@
-# seminar-2019-
-seminar
+# 2019_1st_semester_Seminar
+
